@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ]
+  ],
+  "legacy_uid": "ff311a6d-e457-8361-9554-72de3e077a74",
+  "instructors": {
+    "content": [
+      "a98a8e41-4558-190c-a62e-b255d45df7e9",
+      "ba99d9da-a034-f6e9-1892-6ab074862264",
+      "4801b894-3794-8e0f-0d72-ed21f6515f5c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "60b1fac5-a961-774a-cdfa-d06c6c51dac8",
+    "website": "6-823-computer-system-architecture-fall-2005"
+  },
+  "course_title": "Computer System Architecture",
+  "course_description": "6.823 is a course in the department's \"Computer Systems and Architecture\" concentration. 6.823 is a study of the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. Topics may include: instruction set design; processor micro-architecture and pipelining; cache and virtual memory organizations; protection and sharing; I/O and interrupts; in-order and out-of-order superscalar architectures; VLIW machines; vector supercomputers; multithreaded architectures; symmetric multiprocessors; and parallel computers.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.823",
+  "course_image_thumbnail": {
+    "content": "cef463d4-b0fe-6160-337e-474f7a2e2a4d",
+    "website": "6-823-computer-system-architecture-fall-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Programming Assignments"
+  ],
+  "site_uid": "7192b6f1-ff8a-49c6-bd67-cc8e41feef2e",
+  "site_short_id": "6.823-fall-2005",
+  "site_url_path": "courses/6-823-computer-system-architecture-fall-2005",
+  "title": "Course Metadata"
+}

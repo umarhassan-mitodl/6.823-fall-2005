@@ -3,6 +3,8 @@ content_type: page
 description: The syllabus section contains information about the course overview,
   prerequisite, tutorials, problem sets, quizzes, grades, collaboration and academic
   honesty policy, and course reading material.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

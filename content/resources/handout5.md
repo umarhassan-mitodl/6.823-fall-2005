@@ -6,6 +6,8 @@ description: This resource contains the general overview of MIPS architecture in
 file: /courses/6-823-computer-system-architecture-fall-2005/e6c696f248919970ba4a28b8463b0268_handout5.pdf
 file_size: 239434
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

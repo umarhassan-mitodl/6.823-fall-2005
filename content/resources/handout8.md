@@ -5,6 +5,8 @@ description: This resource talks about hierarchical page table supporting variab
 file: /courses/6-823-computer-system-architecture-fall-2005/44d4212fb14b35e62ee8d23c7a06438e_handout8.pdf
 file_size: 138613
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

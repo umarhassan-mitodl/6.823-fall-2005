@@ -2,6 +2,8 @@
 content_type: page
 description: The lecture notes section contains a total of 25 lecture files for the
   course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

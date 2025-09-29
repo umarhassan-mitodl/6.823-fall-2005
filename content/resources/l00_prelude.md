@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-823-computer-system-architecture-fall-2005/bdee75b0fadbb349b0c43195caeb5a17_l00_prelude.pdf
 file_size: 57571
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

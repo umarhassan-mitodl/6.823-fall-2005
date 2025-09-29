@@ -5,6 +5,8 @@ description: This resource contains problems based on trace scheduling, VLIW mac
 file: /courses/6-823-computer-system-architecture-fall-2005/5981635e375aeac6b01290ac191fec92_psetm5.pdf
 file_size: 717543
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

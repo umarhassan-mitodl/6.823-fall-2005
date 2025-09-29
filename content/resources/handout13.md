@@ -7,6 +7,8 @@ description: 'This resource introduce an invalidation coherence protocol for wri
 file: /courses/6-823-computer-system-architecture-fall-2005/eddc1752317cffd12852547ef1e745d7_handout13.pdf
 file_size: 123088
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -9,6 +9,8 @@ description: 'This resource contains problems based on out-of-order scheduling w
 file: /courses/6-823-computer-system-architecture-fall-2005/7b0f0cea1dcfb23cfbaad2b1e753eb2d_quiz3.pdf
 file_size: 445887
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

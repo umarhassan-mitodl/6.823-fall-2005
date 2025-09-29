@@ -30,6 +30,7 @@
     "website": "6-823-computer-system-architecture-fall-2005"
   },
   "course_title": "Computer System Architecture",
+  "hide_download": true,
   "course_description": "6.823 is a course in the department's \"Computer Systems and Architecture\" concentration. 6.823 is a study of the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. Topics may include: instruction set design; processor micro-architecture and pipelining; cache and virtual memory organizations; protection and sharing; I/O and interrupts; in-order and out-of-order superscalar architectures; VLIW machines; vector supercomputers; multithreaded architectures; symmetric multiprocessors; and parallel computers.\n",
   "department_numbers": [
     "6"
@@ -40,6 +41,7 @@
     "content": "cef463d4-b0fe-6160-337e-474f7a2e2a4d",
     "website": "6-823-computer-system-architecture-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",

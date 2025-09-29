@@ -6,6 +6,8 @@ description: This resource contains notes on bus-based protocols, snooper?s inpu
 file: /courses/6-823-computer-system-architecture-fall-2005/55ccceb5b271314bc24366970fff9aaf_l19_snoopy_prot.pdf
 file_size: 77296
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

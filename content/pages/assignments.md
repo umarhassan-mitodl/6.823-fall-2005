@@ -11,7 +11,7 @@ uid: f172871a-7711-8f0b-4240-e0a301ff7efe
 ---
 This section contains the problem sets assigned for the course. Each of the problem sets is related to a module. Although problem solutions do not have to be handed in (and consequently, are not graded), it is essential that students become thoroughly familiar with the material and therefore are encouraged to work through all problems.
 
-The self-assessment test was handed out during the first lecture and used to assess each student's preparation for the course. The test was due one week later in the lecture. The handouts were provided to students to assist them in completing the problem sets. Students were expected to study the handouts before solving the problems. Instructors may request the solutions for these assignments by using the MIT OpenCourseWare [feedback](https://ocw.mit.edu/contact/) form.
+The self-assessment test was handed out during the first lecture and used to assess each student's preparation for the course. The test was due one week later in the lecture. The handouts were provided to students to assist them in completing the problem sets. Students were expected to study the handouts before solving the problems. Instructors may request the solutions for these assignments by using the MIT OpenCourseWare {{% resource_link "c65c65e1-8660-4b9e-ae88-4a3406159048" "feedback" %}} form.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ASSIGNMENTS

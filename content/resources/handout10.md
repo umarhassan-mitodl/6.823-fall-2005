@@ -5,8 +5,6 @@ description: This resource introduce a simple out-of-order processor using a reo
 file: /courses/6-823-computer-system-architecture-fall-2005/fb1b60ca989e4740271a9a472a7fccd9_handout10.pdf
 file_size: 158797
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

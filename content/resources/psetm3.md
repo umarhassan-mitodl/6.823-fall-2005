@@ -6,8 +6,6 @@ description: This resource talks about adding a floating-point unit to the basic
 file: /courses/6-823-computer-system-architecture-fall-2005/756f9c212212468db2eec43aa285851a_psetm3.pdf
 file_size: 844018
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

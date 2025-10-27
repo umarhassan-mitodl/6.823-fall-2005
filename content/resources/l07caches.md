@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-823-computer-system-architecture-fall-2005/29244173f6b6a78eed99d3b2b50196b6_l07caches.pdf
 file_size: 276046
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

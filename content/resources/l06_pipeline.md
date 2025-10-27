@@ -6,8 +6,6 @@ description: This resource contains technology assumptions, 5-stage pipelined ex
 file: /courses/6-823-computer-system-architecture-fall-2005/16eb29d3b9c087566a1a28aca412bf02_l06_pipeline.pdf
 file_size: 157696
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

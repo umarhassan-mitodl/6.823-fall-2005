@@ -5,8 +5,6 @@ description: This resource talks about direct-mapped cache, and four-way set-ass
 file: /courses/6-823-computer-system-architecture-fall-2005/a7e902602fd480fc22551d9e6bbc6b81_handout6.pdf
 file_size: 148677
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

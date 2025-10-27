@@ -5,8 +5,6 @@ description: This resource contains the self-assessment test including problems 
 file: /courses/6-823-computer-system-architecture-fall-2005/e7ae27f2deaf7a8391e5c4222bfd9af5_psetm0.pdf
 file_size: 217161
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

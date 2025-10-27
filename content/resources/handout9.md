@@ -5,8 +5,6 @@ description: This resource talks about scoreboarding for in-order issues includi
 file: /courses/6-823-computer-system-architecture-fall-2005/e2f9477e0a0cc8effcc472354d962264_handout9.pdf
 file_size: 155589
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

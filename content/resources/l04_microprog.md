@@ -6,8 +6,6 @@ description: This resource discusses microarchitecture, The MIPS32 ISA, MIPS, RO
 file: /courses/6-823-computer-system-architecture-fall-2005/ecfdbf158b80b2255bcb63b9dd5debd8_l04_microprog.pdf
 file_size: 164406
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

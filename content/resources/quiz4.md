@@ -6,8 +6,6 @@ description: This resource contains problems based on directory-based cache cohe
 file: /courses/6-823-computer-system-architecture-fall-2005/18301588412ce9c3c48c9031d2a53b0b_quiz4.pdf
 file_size: 469579
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource explains the stack architecture along with a subset o
 file: /courses/6-823-computer-system-architecture-fall-2005/c5665c6e0addf2f7eadb4e453122589e_handout2.pdf
 file_size: 20692
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

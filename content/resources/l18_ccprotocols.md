@@ -6,8 +6,6 @@ description: This resource contains notes on multiple caches, ncoding, implicati
 file: /courses/6-823-computer-system-architecture-fall-2005/651f70127e70cf0a66665303fcd21ad4_l18_ccprotocols.pdf
 file_size: 170981
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
